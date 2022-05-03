@@ -1,5 +1,5 @@
-# demosipcang
-Front End demo SIPCA
+# demosicpang
+Front End demo SICPA
 
 This project was generated with node v16.15.0 [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
