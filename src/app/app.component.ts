@@ -33,7 +33,8 @@ export class AppComponent implements OnInit{
       id: [''],
       address: ['', Validators.required],
       name: ['', Validators.required],
-      phone: ['', Validators.required]
+      phone: ['', Validators.required],
+      status: ['1']
     });
     
     this.enterprisesService.getAllEnterprises().subscribe({
